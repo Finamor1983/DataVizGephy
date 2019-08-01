@@ -1,0 +1,1419 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<gexf xmlns="http://www.gexf.net/1.3" version="1.3" xmlns:viz="http://www.gexf.net/1.3/viz" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:schemaLocation="http://www.gexf.net/1.3 http://www.gexf.net/1.3/gexf.xsd">
+  <meta lastmodifieddate="2019-08-01">
+    <creator>Gephi 0.9</creator>
+    <description></description>
+  </meta>
+  <graph defaultedgetype="directed" mode="static">
+    <attributes class="node" mode="static">
+      <attribute id="type" title="type" type="string"></attribute>
+      <attribute id="vu" title="vu" type="string"></attribute>
+      <attribute id="jour" title="jour" type="string"></attribute>
+      <attribute id="appreciation" title="appreciation" type="string"></attribute>
+      <attribute id="commentaires" title="commentaires" type="string"></attribute>
+      <attribute id="#enlever les baliser avec rechercher remplacer, les espaces en trop, les balises, remplacer les quelques caractères spéciaux &amp;, &quot; ' &quot;" title="#enlever les baliser avec rechercher remplacer, les espaces en trop, les balises, remplacer les quelques caractères spéciaux &amp;, &quot; ' &quot;" type="string"></attribute>
+    </attributes>
+    <nodes>
+      <node id="0" label="Les Cowboys Fringants">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Mardi"></attvalue>
+          <attvalue for="appreciation" value="5"></attvalue>
+          <attvalue for="commentaires" value="Du bon Québécois, pêchu"></attvalue>
+          <attvalue for="#enlever les baliser avec rechercher remplacer, les espaces en trop, les balises, remplacer les quelques caractères spéciaux &amp;, &quot; ' &quot;" value="#rajouter les colonnes de titre"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="184.27867" y="-228.43242"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="1" label="Christine and the Queens">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Mardi"></attvalue>
+          <attvalue for="appreciation" value="4"></attvalue>
+          <attvalue for="commentaires" value="Top, mais je ne rentre pas forcément dans le concept"></attvalue>
+          <attvalue for="#enlever les baliser avec rechercher remplacer, les espaces en trop, les balises, remplacer les quelques caractères spéciaux &amp;, &quot; ' &quot;" value="#compléter les champs personnels"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="143.61845" y="-212.52263"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="2" label="Twenty Øne Piløts">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Mardi"></attvalue>
+          <attvalue for="appreciation" value="3"></attvalue>
+          <attvalue for="commentaires" value="Sympa, sans plus"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="59.570023" y="-181.62343"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="3" label="Tash Sultana">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-533.9168" y="1177.1686"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="4" label="Charlotte Gainsbourg">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1168.6116" y="-563.28394"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="5" label="KOMPROMAT">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="356.7114" y="1341.9055"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="6" label="Elisapie">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1178.5765" y="205.29735"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="7" label="Québec Redneck Bluegrass Project">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Mardi"></attvalue>
+          <attvalue for="appreciation" value="3"></attvalue>
+          <attvalue for="commentaires" value="Master en québécois nécessaire et un peu répétitif, mais sympa"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="190.78436" y="-289.5141"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="8" label="Pierce Brothers">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1096.3141" y="580.26117"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="9" label="Muddy Monk">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-9.103081" y="718.01385"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="10" label="B77">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="929.3755" y="-434.11356"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="11" label="La Fraicheur">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="958.22455" y="192.54747"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="12" label="Billie Bird">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-43.75434" y="1184.3195"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="13" label="Cari Cari">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="242.16888" y="756.4683"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="14" label="Aloïse Sauvage">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-796.339" y="1190.0083"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="15" label="Bagarre">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-453.37625" y="752.87463"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="16" label="Bodh'aktan">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="478.61887" y="653.7761"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="17" label="Ma Vie de Grenier">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1167.2358" y="39.390488"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="18" label="Meurtre au Môtel">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-738.36237" y="981.1175"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="19" label="Toute la mer du Monde">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-23.955181" y="1399.175"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="20" label="Encore raté!">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1055.2683" y="443.30875"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="21" label="La Cuisinière">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1228.9885" y="-147.65329"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="22" label="Dancing Moving Mirror">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1391.9594" y="158.77066"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="23" label="La Sonothèque Nomade">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-992.3674" y="322.0501"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="24" label="Y'a du monde aux Balkans">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="835.89496" y="572.25665"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="25" label="Bingo-Karaokéké">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1033.9735" y="419.66565"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="26" label="Xavier Rudd">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="287.88492" y="974.2393"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="27" label="Lana Del Rey">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Mercredi"></attvalue>
+          <attvalue for="appreciation" value="2"></attvalue>
+          <attvalue for="commentaires" value="La déception de Paléo, je ne dois pas être de la bonne génération"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="12.416135" y="-517.9156"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="28" label="Polo &amp; Pan">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Mercredi"></attvalue>
+          <attvalue for="appreciation" value="3"></attvalue>
+          <attvalue for="commentaires" value="Sympa, mais vu de loin, pas forcément accroché"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-73.07716" y="-578.03815"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="29" label="The Blaze">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-672.5301" y="527.7422"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="30" label="Hubert Lenoir">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="912.0015" y="320.61673"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="31" label="Les Trois Accords">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="809.371" y="-828.46277"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="32" label="Bertrand Belin">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="647.3681" y="577.6704"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="33" label="The Mauskovic Dance Band">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="370.3021" y="748.08167"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="34" label="Pongo">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="630.0134" y="1042.6588"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="35" label="Tamino">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1058.9783" y="-486.11554"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="36" label="Cyril Cyril">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="625.7916" y="1286.7885"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="37" label="Gaye Su Akyol">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="448.90488" y="996.8316"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="38" label="-M-">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Mercredi"></attvalue>
+          <attvalue for="appreciation" value="5"></attvalue>
+          <attvalue for="commentaires" value="Top, ses tenus, son charisme, ses chansons, il s'est donné à fond"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-139.34937" y="-501.51425"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="39" label="Alma Negra">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-834.0877" y="678.60046"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="40" label="Flavien Berger">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="788.4024" y="897.3498"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="41" label="Rolling Blackouts Coastal Fever">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-867.4382" y="268.0327"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="42" label="Lomepal">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Jeudi"></attvalue>
+          <attvalue for="appreciation" value="3"></attvalue>
+          <attvalue for="commentaires" value="Vu de loin, ça avait l'air sympa"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-229.31094" y="-757.9882"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="43" label="The Cure">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Jeudi"></attvalue>
+          <attvalue for="appreciation" value="5"></attvalue>
+          <attvalue for="commentaires" value="Le concert de Paléo pour moi, c'était 120 minutes de pur plaisir"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-323.32434" y="-708.53436"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="44" label="Johnny Mafia">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1115.0461" y="28.014204"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="45" label="Odezenne">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-767.5452" y="817.5573"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="46" label="Moha La Squale">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-125.80746" y="1032.6912"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="47" label="Dead Obies">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-147.74753" y="832.792"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="48" label="Cirque Alfonse">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="961.64" y="-257.1495"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="49" label="Charlotte Cardin">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1454.1633" y="28.763012"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="50" label="Doums &amp; Népal">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-323.52142" y="842.51227"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="51" label="Rendez Vous">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="645.1547" y="751.9849"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="52" label="Emilie Zoé">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1207.4019" y="122.96902"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="53" label="The Twilight Sad">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1260.7482" y="652.38324"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="54" label="TH Da Freak">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="935.66534" y="-876.1599"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="55" label="Zed Yun Pavarotti">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="735.0395" y="-1055.9097"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="56" label="LIFE">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="364.825" y="1154.4421"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="57" label="Angèle">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-249.2191" y="1238.5718"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="58" label="Damso">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Vendredi"></attvalue>
+          <attvalue for="appreciation" value="4"></attvalue>
+          <attvalue for="commentaires" value="Ils ont mis l'ambiance, mais j'ai de la peine avec leur musique"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-406.656" y="-933.7224"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="59" label="Soprano">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Vendredi"></attvalue>
+          <attvalue for="appreciation" value="4"></attvalue>
+          <attvalue for="commentaires" value="Ils ont mis l'ambiance, mais j'ai de la peine avec leur musique"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-471.6217" y="-879.24554"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="60" label="Columbine">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-600.2943" y="715.56146"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="61" label="Hubert-Félix Thiéfaine">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Vendredi"></attvalue>
+          <attvalue for="appreciation" value="4"></attvalue>
+          <attvalue for="commentaires" value="Toujours sympa à voir"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-516.5042" y="-905.8298"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="62" label="Caballero &amp; JeanJass">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="158.05756" y="1063.9004"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="63" label="Bears of Legend">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="984.77924" y="31.351748"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="64" label="Loud">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1283.8344" y="-619.1963"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="65" label="Makala">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="120.291916" y="798.1375"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="66" label="Hoshi">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-997.20215" y="967.5932"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="67" label="BCUC">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-285.9705" y="1045.6718"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="68" label="Ko Shin Moon">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1166.4362" y="-354.6505"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="69" label="Horizon Liquide">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-464.02206" y="1048.3553"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="70" label="AMMAR 808">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1147.7516" y="490.92957"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="71" label="Al-Sarwib">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-841.1009" y="495.1165"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="72" label="Thylacine">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1016.6358" y="727.3764"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="73" label="Le Winston Band">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="25.625568" y="949.75104"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="74" label="Charlie Cunningham">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-222.53546" y="666.3604"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="75" label="Weval">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="993.9118" y="-1109.1573"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="76" label="Curtis Harding">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="131.94606" y="1236.4583"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="77" label="Le Fric">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Samedi"></attvalue>
+          <attvalue for="appreciation" value="5"></attvalue>
+          <attvalue for="commentaires" value="Le spectactle des deux Vincent sous la pluie, sympa, vu le temps, peut-être un peu court"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-561.76886" y="-1104.1115"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="78" label="Robert Charlebois">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1233.5692" y="284.27396"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="79" label="Stephan Eicher &amp; Traktorkestar">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Samedi"></attvalue>
+          <attvalue for="appreciation" value="5"></attvalue>
+          <attvalue for="commentaires" value="Ce qui a de fort avec Stephan Eicher, c'est que chaque concert est toujours une expérience différente"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-806.1608" y="-1188.2094"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="80" label="Jacob Banks">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-513.0215" y="1364.1761"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="81" label="Étienne de Crécy">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-538.875" y="916.85144"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="82" label="Tire le coyote">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1411.7317" y="351.59088"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="83" label="Kind &amp; Kinky Zoo">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1079.5818" y="-843.2403"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="84" label="FlexFab">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="542.1143" y="869.1334"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="85" label="Nova Materia">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="854.9364" y="724.9284"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="86" label="Black Sea Dahu">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-481.2129" y="569.216"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="87" label="Stephan Eicher &amp; Paléo Orkestar">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="394.2479" y="-1379.1437"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="88" label="Dadju">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="925.0783" y="-645.5679"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="89" label="Patrick Bruel">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Dimanche"></attvalue>
+          <attvalue for="appreciation" value="5"></attvalue>
+          <attvalue for="commentaires" value="Tous ses classiques, il s'est donné, un hommage à Johnny Hallyday, des émotions, parfait"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-930.69275" y="-1322.4043"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="90" label="Orchestre de Chambre de Lausanne">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1354.3289" y="-602.6302"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="91" label="Lou Doillon">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="849.74036" y="1124.3016"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="92" label="Youssoupha">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="799.8031" y="428.70178"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="93" label="Quiet Island">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1098.7384" y="793.78217"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="94" label="The Gardener &amp; The Tree">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1088.5256" y="910.0767"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="95" label="Gringe">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1396.4602" y="-57.425026"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="96" label="Phanee de Pool">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1287.2197" y="628.5254"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="97" label="Voyou">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1027.6171" y="-114.78715"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="98" label="Birkin / Gainsbourg">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Dimanche"></attvalue>
+          <attvalue for="appreciation" value="5"></attvalue>
+          <attvalue for="commentaires" value="Plein d'émotion, un orchestre classique, belle mise en valeur de ses chansons"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1007.5061" y="-1459.8029"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="99" label="Cœur de Pirate">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Dimanche"></attvalue>
+          <attvalue for="appreciation" value="3"></attvalue>
+          <attvalue for="commentaires" value="Vu de loin, du monde, trop petite scène, et la chanteuse n'a pas semblé dépasser cela."></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-818.3663" y="-1457.1016"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="100" label="Koriass">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1382.2023" y="-363.09506"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="101" label="Jazzy Bazz">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-9.698763" y="-1594.3048"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="102" label="Gato Preto">
+        <attvalues>
+          <attvalue for="type" value="Artiste"></attvalue>
+          <attvalue for="vu" value="Non"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="1370.9116" y="370.9109"></viz:position>
+        <viz:color r="217" g="125" b="216"></viz:color>
+      </node>
+      <node id="103" label="Feu d'artifice">
+        <attvalues>
+          <attvalue for="type" value="Evenement"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Dimanche"></attvalue>
+          <attvalue for="appreciation" value="5"></attvalue>
+          <attvalue for="commentaires" value="Le classique"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-1010.66406" y="-1352.151"></viz:position>
+        <viz:color r="35" g="150" b="111"></viz:color>
+      </node>
+      <node id="104" label="JW">
+        <attvalues>
+          <attvalue for="type" value="Personne"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Mardi"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="176.28789" y="-327.7161"></viz:position>
+        <viz:color r="140" g="185" b="0"></viz:color>
+      </node>
+      <node id="105" label="PB et conjoint">
+        <attvalues>
+          <attvalue for="type" value="Personne"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Mercredi"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-178.62242" y="-393.7295"></viz:position>
+        <viz:color r="140" g="185" b="0"></viz:color>
+      </node>
+      <node id="106" label="BM et conjoint">
+        <attvalues>
+          <attvalue for="type" value="Personne"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Mercredi"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-52.65645" y="-406.69473"></viz:position>
+        <viz:color r="140" g="185" b="0"></viz:color>
+      </node>
+      <node id="107" label="GBV et famille">
+        <attvalues>
+          <attvalue for="type" value="Personne"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Mardi"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="182.57835" y="-373.4649"></viz:position>
+        <viz:color r="140" g="185" b="0"></viz:color>
+      </node>
+      <node id="108" label="JB">
+        <attvalues>
+          <attvalue for="type" value="Personne"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Samedi"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-717.6259" y="-1100.871"></viz:position>
+        <viz:color r="140" g="185" b="0"></viz:color>
+      </node>
+      <node id="109" label="SamSA">
+        <attvalues>
+          <attvalue for="type" value="Personne"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Samedi"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-791.91406" y="-1120.1376"></viz:position>
+        <viz:color r="140" g="185" b="0"></viz:color>
+      </node>
+      <node id="110" label="AP">
+        <attvalues>
+          <attvalue for="type" value="Personne"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Mercredi"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-162.58278" y="-455.4159"></viz:position>
+        <viz:color r="140" g="185" b="0"></viz:color>
+      </node>
+      <node id="111" label="FT">
+        <attvalues>
+          <attvalue for="type" value="Personne"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Dimanche"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-707.4965" y="-1322.5685"></viz:position>
+        <viz:color r="140" g="185" b="0"></viz:color>
+      </node>
+      <node id="112" label="SanAmiFT">
+        <attvalues>
+          <attvalue for="type" value="Personne"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Dimanche"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-746.95557" y="-1290.1696"></viz:position>
+        <viz:color r="140" g="185" b="0"></viz:color>
+      </node>
+      <node id="113" label="CC et enfants">
+        <attvalues>
+          <attvalue for="type" value="Personne"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Dimanche"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-895.60785" y="-1296.1038"></viz:position>
+        <viz:color r="140" g="185" b="0"></viz:color>
+      </node>
+      <node id="114" label="Tomme poélée">
+        <attvalues>
+          <attvalue for="type" value="Cuisine"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Mardi"></attvalue>
+          <attvalue for="appreciation" value="4"></attvalue>
+          <attvalue for="commentaires" value="Roesti, tomme, épinards et bacon, peut-être un peu bourratif pour l'occasion de canicule du mardi"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-45.835533" y="-257.28778"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="115" label="Sandwich Magret">
+        <attvalues>
+          <attvalue for="type" value="Cuisine"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Mercredi"></attvalue>
+          <attvalue for="appreciation" value="5"></attvalue>
+          <attvalue for="commentaires" value="Le classique"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="84.69531" y="-441.06415"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="116" label="Gauffre Maneken Kriss">
+        <attvalues>
+          <attvalue for="type" value="Cuisine"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Mercredi"></attvalue>
+          <attvalue for="appreciation" value="5"></attvalue>
+          <attvalue for="commentaires" value="Un classique"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="166.64507" y="-492.2593"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="117" label="Nouille sautée thai au poulet">
+        <attvalues>
+          <attvalue for="type" value="Cuisine"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Jeudi"></attvalue>
+          <attvalue for="appreciation" value="4"></attvalue>
+          <attvalue for="commentaires" value="Un classique, mais rien de surprenant"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-286.98575" y="-671.9483"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="118" label="Paella">
+        <attvalues>
+          <attvalue for="type" value="Cuisine"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Vendredi"></attvalue>
+          <attvalue for="appreciation" value="4"></attvalue>
+          <attvalue for="commentaires" value="Un peu bourratif et pas pratique à manger, mais sinon top"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-425.59055" y="-984.3908"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="119" label="Malakoff">
+        <attvalues>
+          <attvalue for="type" value="Cuisine"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Samedi"></attvalue>
+          <attvalue for="appreciation" value="5"></attvalue>
+          <attvalue for="commentaires" value="Pour accompagner un verre de rosé c'est parfait"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-667.4752" y="-1089.7322"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="120" label="Tartine">
+        <attvalues>
+          <attvalue for="type" value="Cuisine"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Samedi"></attvalue>
+          <attvalue for="appreciation" value="5"></attvalue>
+          <attvalue for="commentaires" value="Pour tenir lorsqu'on est trempé jusqu'à l'os, c'est parfait aussi"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-604.33545" y="-1199.8691"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="121" label="Malaisien assortiment beignet, poulet saitay et curry de poulet">
+        <attvalues>
+          <attvalue for="type" value="Cuisine"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Dimanche"></attvalue>
+          <attvalue for="appreciation" value="5"></attvalue>
+          <attvalue for="commentaires" value="Un saytay bien relevé, c'était parfait"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-857.4412" y="-1395.6345"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="122" label="Churros">
+        <attvalues>
+          <attvalue for="type" value="Cuisine"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Dimanche"></attvalue>
+          <attvalue for="appreciation" value="3"></attvalue>
+          <attvalue for="commentaires" value="Un peu trop sucré, mais sinon bon"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-776.24835" y="-1422.4962"></viz:position>
+        <viz:color r="0" g="199" b="255"></viz:color>
+      </node>
+      <node id="123" label="Mardi">
+        <attvalues>
+          <attvalue for="type" value="Jour"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Mardi"></attvalue>
+          <attvalue for="appreciation" value="4"></attvalue>
+          <attvalue for="commentaires" value="Un bon début"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="102.1841" y="-307.49002"></viz:position>
+        <viz:color r="255" g="112" b="69"></viz:color>
+      </node>
+      <node id="124" label="Mercredi">
+        <attvalues>
+          <attvalue for="type" value="Jour"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Mercredi"></attvalue>
+          <attvalue for="appreciation" value="4"></attvalue>
+          <attvalue for="commentaires" value="Heureusement M était là, Lana Del Rey était la déception du Paleo pour moi"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-70.23664" y="-502.7236"></viz:position>
+        <viz:color r="255" g="112" b="69"></viz:color>
+      </node>
+      <node id="125" label="Jeudi">
+        <attvalues>
+          <attvalue for="type" value="Jour"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Jeudi"></attvalue>
+          <attvalue for="appreciation" value="5"></attvalue>
+          <attvalue for="commentaires" value="Cure, what else"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-271.1074" y="-723.4792"></viz:position>
+        <viz:color r="255" g="112" b="69"></viz:color>
+      </node>
+      <node id="126" label="Vendredi">
+        <attvalues>
+          <attvalue for="type" value="Jour"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Vendredi"></attvalue>
+          <attvalue for="appreciation" value="4"></attvalue>
+          <attvalue for="commentaires" value="Sympa à condition d'aimer le hip-hop"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-465.56552" y="-938.01434"></viz:position>
+        <viz:color r="255" g="112" b="69"></viz:color>
+      </node>
+      <node id="127" label="Samedi">
+        <attvalues>
+          <attvalue for="type" value="Jour"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Samedi"></attvalue>
+          <attvalue for="appreciation" value="4.5"></attvalue>
+          <attvalue for="commentaires" value="Pluvieux et ShakaPonk annulé"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-664.045" y="-1156.5513"></viz:position>
+        <viz:color r="255" g="112" b="69"></viz:color>
+      </node>
+      <node id="128" label="Dimanche">
+        <attvalues>
+          <attvalue for="type" value="Jour"></attvalue>
+          <attvalue for="vu" value="Oui"></attvalue>
+          <attvalue for="jour" value="Dimanche"></attvalue>
+          <attvalue for="appreciation" value="5"></attvalue>
+          <attvalue for="commentaires" value="Une fin en apothéose, il y aurait mérité d'avoir plus de monde et être une soirée complète pour Birkin et Bruel"></attvalue>
+        </attvalues>
+        <viz:size value="10.0"></viz:size>
+        <viz:position x="-851.0197" y="-1354.8241"></viz:position>
+        <viz:color r="255" g="112" b="69"></viz:color>
+      </node>
+    </nodes>
+    <edges>
+      <edge id="0" source="123" target="124" weight="4.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="1" source="124" target="125" weight="4.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="2" source="125" target="126" weight="4.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="3" source="126" target="127" weight="4.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="4" source="127" target="128" weight="4.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="5" source="0" target="123" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="6" source="1" target="123" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="7" source="2" target="123" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="8" source="7" target="123" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="9" source="104" target="123" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="10" source="107" target="123" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="11" source="114" target="123" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="12" source="27" target="124" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="13" source="28" target="124" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="14" source="38" target="124" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="15" source="105" target="124" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="16" source="106" target="124" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="17" source="110" target="124" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="18" source="115" target="124" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="19" source="116" target="124" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="20" source="42" target="125" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="21" source="43" target="125" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="22" source="117" target="125" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="23" source="58" target="126" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="24" source="59" target="126" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="25" source="61" target="126" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="26" source="118" target="126" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="27" source="77" target="127" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="28" source="79" target="127" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="29" source="108" target="127" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="30" source="109" target="127" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="31" source="119" target="127" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="32" source="120" target="127" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="33" source="89" target="128" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="34" source="98" target="128" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="35" source="99" target="128" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="36" source="103" target="128" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="37" source="111" target="128" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="38" source="112" target="128" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="39" source="113" target="128" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="40" source="121" target="128" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+      <edge id="41" source="122" target="128" weight="2.0">
+        <viz:color r="0" g="133" b="230"></viz:color>
+      </edge>
+    </edges>
+  </graph>
+</gexf>
