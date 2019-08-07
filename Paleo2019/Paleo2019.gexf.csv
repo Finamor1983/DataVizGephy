@@ -1,130 +1,46 @@
-Id,Label,timeset,type,vu,jour,appreciation,commentaires,"#enlever les baliser avec rechercher remplacer, les espaces en trop, les balises, remplacer les quelques caractères spéciaux &, "" ' """,indegree,outdegree,degree
-0,Les Cowboys Fringants,,Artiste,Oui,Mardi,5,"Du bon Québécois, pêchu","#rajouter les colonnes de titre",0,1,1
-1,Christine and the Queens,,Artiste,Oui,Mardi,4,"Top, mais je ne rentre pas forcément dans le concept","#compléter les champs personnels",0,1,1
-2,Twenty Øne Piløts,,Artiste,Oui,Mardi,3,"Sympa, sans plus",,0,1,1
-3,Tash Sultana,,Artiste,Non,,,,,0,0,0
-4,Charlotte Gainsbourg,,Artiste,Non,,,,,0,0,0
-5,KOMPROMAT,,Artiste,Non,,,,,0,0,0
-6,Elisapie,,Artiste,Non,,,,,0,0,0
-7,Québec Redneck Bluegrass Project,,Artiste,Oui,Mardi,3,"Master en québécois nécessaire et un peu répétitif, mais sympa",,0,1,1
-8,Pierce Brothers,,Artiste,Non,,,,,0,0,0
-9,Muddy Monk,,Artiste,Non,,,,,0,0,0
-10,B77,,Artiste,Non,,,,,0,0,0
-11,La Fraicheur,,Artiste,Non,,,,,0,0,0
-12,Billie Bird,,Artiste,Non,,,,,0,0,0
-13,Cari Cari,,Artiste,Non,,,,,0,0,0
-14,Aloïse Sauvage,,Artiste,Non,,,,,0,0,0
-15,Bagarre,,Artiste,Non,,,,,0,0,0
-16,Bodh'aktan,,Artiste,Non,,,,,0,0,0
-17,Ma Vie de Grenier,,Artiste,Non,,,,,0,0,0
-18,Meurtre au Môtel,,Artiste,Non,,,,,0,0,0
-19,Toute la mer du Monde,,Artiste,Non,,,,,0,0,0
-20,Encore raté!,,Artiste,Non,,,,,0,0,0
-21,La Cuisinière,,Artiste,Non,,,,,0,0,0
-22,Dancing Moving Mirror,,Artiste,Non,,,,,0,0,0
-23,La Sonothèque Nomade,,Artiste,Non,,,,,0,0,0
-24,Y'a du monde aux Balkans,,Artiste,Non,,,,,0,0,0
-25,Bingo-Karaokéké,,Artiste,Non,,,,,0,0,0
-26,Xavier Rudd,,Artiste,Non,,,,,0,0,0
-27,Lana Del Rey,,Artiste,Oui,Mercredi,2,"La déception de Paléo, je ne dois pas être de la bonne génération",,0,1,1
-28,Polo & Pan,,Artiste,Oui,Mercredi,3,"Sympa, mais vu de loin, pas forcément accroché",,0,1,1
-29,The Blaze,,Artiste,Non,,,,,0,0,0
-30,Hubert Lenoir,,Artiste,Non,,,,,0,0,0
-31,Les Trois Accords,,Artiste,Non,,,,,0,0,0
-32,Bertrand Belin,,Artiste,Non,,,,,0,0,0
-33,The Mauskovic Dance Band,,Artiste,Non,,,,,0,0,0
-34,Pongo,,Artiste,Non,,,,,0,0,0
-35,Tamino,,Artiste,Non,,,,,0,0,0
-36,Cyril Cyril,,Artiste,Non,,,,,0,0,0
-37,Gaye Su Akyol,,Artiste,Non,,,,,0,0,0
-38,-M-,,Artiste,Oui,Mercredi,5,"Top, ses tenus, son charisme, ses chansons, il s'est donné à fond",,0,1,1
-39,Alma Negra,,Artiste,Non,,,,,0,0,0
-40,Flavien Berger,,Artiste,Non,,,,,0,0,0
-41,Rolling Blackouts Coastal Fever,,Artiste,Non,,,,,0,0,0
-42,Lomepal,,Artiste,Oui,Jeudi,3,"Vu de loin, ça avait l'air sympa",,0,1,1
-43,The Cure,,Artiste,Oui,Jeudi,5,"Le concert de Paléo pour moi, c'était 120 minutes de pur plaisir",,0,1,1
-44,Johnny Mafia,,Artiste,Non,,,,,0,0,0
-45,Odezenne,,Artiste,Non,,,,,0,0,0
-46,Moha La Squale,,Artiste,Non,,,,,0,0,0
-47,Dead Obies,,Artiste,Non,,,,,0,0,0
-48,Cirque Alfonse,,Artiste,Non,,,,,0,0,0
-49,Charlotte Cardin,,Artiste,Non,,,,,0,0,0
-50,Doums & Népal,,Artiste,Non,,,,,0,0,0
-51,Rendez Vous,,Artiste,Non,,,,,0,0,0
-52,Emilie Zoé,,Artiste,Non,,,,,0,0,0
-53,The Twilight Sad,,Artiste,Non,,,,,0,0,0
-54,TH Da Freak,,Artiste,Non,,,,,0,0,0
-55,Zed Yun Pavarotti,,Artiste,Non,,,,,0,0,0
-56,LIFE,,Artiste,Non,,,,,0,0,0
-57,Angèle,,Artiste,Non,,,,,0,0,0
-58,Damso,,Artiste,Oui,Vendredi,4,"Ils ont mis l'ambiance, mais j'ai de la peine avec leur musique",,0,1,1
-59,Soprano,,Artiste,Oui,Vendredi,4,"Ils ont mis l'ambiance, mais j'ai de la peine avec leur musique",,0,1,1
-60,Columbine,,Artiste,Non,,,,,0,0,0
-61,Hubert-Félix Thiéfaine,,Artiste,Oui,Vendredi,4,Toujours sympa à voir,,0,1,1
-62,Caballero & JeanJass,,Artiste,Non,,,,,0,0,0
-63,Bears of Legend,,Artiste,Non,,,,,0,0,0
-64,Loud,,Artiste,Non,,,,,0,0,0
-65,Makala,,Artiste,Non,,,,,0,0,0
-66,Hoshi,,Artiste,Non,,,,,0,0,0
-67,BCUC,,Artiste,Non,,,,,0,0,0
-68,Ko Shin Moon,,Artiste,Non,,,,,0,0,0
-69,Horizon Liquide,,Artiste,Non,,,,,0,0,0
-70,AMMAR 808,,Artiste,Non,,,,,0,0,0
-71,Al-Sarwib,,Artiste,Non,,,,,0,0,0
-72,Thylacine,,Artiste,Non,,,,,0,0,0
-73,Le Winston Band,,Artiste,Non,,,,,0,0,0
-74,Charlie Cunningham,,Artiste,Non,,,,,0,0,0
-75,Weval,,Artiste,Non,,,,,0,0,0
-76,Curtis Harding,,Artiste,Non,,,,,0,0,0
-77,Le Fric,,Artiste,Oui,Samedi,5,"Le spectactle des deux Vincent sous la pluie, sympa, vu le temps, peut-être un peu court",,0,1,1
-78,Robert Charlebois,,Artiste,Non,,,,,0,0,0
-79,Stephan Eicher & Traktorkestar,,Artiste,Oui,Samedi,5,"Ce qui a de fort avec Stephan Eicher, c'est que chaque concert est toujours une expérience différente",,0,1,1
-80,Jacob Banks,,Artiste,Non,,,,,0,0,0
-81,Étienne de Crécy,,Artiste,Non,,,,,0,0,0
-82,Tire le coyote,,Artiste,Non,,,,,0,0,0
-83,Kind & Kinky Zoo,,Artiste,Non,,,,,0,0,0
-84,FlexFab,,Artiste,Non,,,,,0,0,0
-85,Nova Materia,,Artiste,Non,,,,,0,0,0
-86,Black Sea Dahu,,Artiste,Non,,,,,0,0,0
-87,Stephan Eicher & Paléo Orkestar,,Artiste,Non,,,,,0,0,0
-88,Dadju,,Artiste,Non,,,,,0,0,0
-89,Patrick Bruel,,Artiste,Oui,Dimanche,5,"Tous ses classiques, il s'est donné, un hommage à Johnny Hallyday, des émotions, parfait",,0,1,1
-90,Orchestre de Chambre de Lausanne,,Artiste,Non,,,,,0,0,0
-91,Lou Doillon,,Artiste,Non,,,,,0,0,0
-92,Youssoupha,,Artiste,Non,,,,,0,0,0
-93,Quiet Island,,Artiste,Non,,,,,0,0,0
-94,The Gardener & The Tree,,Artiste,Non,,,,,0,0,0
-95,Gringe,,Artiste,Non,,,,,0,0,0
-96,Phanee de Pool,,Artiste,Non,,,,,0,0,0
-97,Voyou,,Artiste,Non,,,,,0,0,0
-98,Birkin / Gainsbourg,,Artiste,Oui,Dimanche,5,"Plein d'émotion, un orchestre classique, belle mise en valeur de ses chansons",,0,1,1
-99,Cœur de Pirate,,Artiste,Oui,Dimanche,3,"Vu de loin, du monde, trop petite scène, et la chanteuse n'a pas semblé dépasser cela.",,0,1,1
-100,Koriass,,Artiste,Non,,,,,0,0,0
-101,Jazzy Bazz,,Artiste,Non,,,,,0,0,0
-102,Gato Preto,,Artiste,Non,,,,,0,0,0
-103,Feu d'artifice,,Evenement,Oui,Dimanche,5,Le classique,,0,1,1
-104,JW,,Personne,Oui,Mardi,,,,0,1,1
-105,PB et conjoint,,Personne,Oui,Mercredi,,,,0,1,1
-106,BM et conjoint,,Personne,Oui,Mercredi,,,,0,1,1
-107,GBV et famille,,Personne,Oui,Mardi,,,,0,1,1
-108,JB,,Personne,Oui,Samedi,,,,0,1,1
-109,SamSA,,Personne,Oui,Samedi,,,,0,1,1
-110,AP,,Personne,Oui,Mercredi,,,,0,1,1
-111,FT,,Personne,Oui,Dimanche,,,,0,1,1
-112,SanAmiFT,,Personne,Oui,Dimanche,,,,0,1,1
-113,CC et enfants,,Personne,Oui,Dimanche,,,,0,1,1
-114,Tomme poélée,,Cuisine,Oui,Mardi,4,"Roesti, tomme, épinards et bacon, peut-être un peu bourratif pour l'occasion de canicule du mardi",,0,1,1
-115,Sandwich Magret,,Cuisine,Oui,Mercredi,5,Le classique,,0,1,1
-116,Gauffre Maneken Kriss,,Cuisine,Oui,Mercredi,5,Un classique,,0,1,1
-117,Nouille sautée thai au poulet,,Cuisine,Oui,Jeudi,4,"Un classique, mais rien de surprenant",,0,1,1
-118,Paella,,Cuisine,Oui,Vendredi,4,"Un peu bourratif et pas pratique à manger, mais sinon top",,0,1,1
-119,Malakoff,,Cuisine,Oui,Samedi,5,Pour accompagner un verre de rosé c'est parfait,,0,1,1
-120,Tartine,,Cuisine,Oui,Samedi,5,"Pour tenir lorsqu'on est trempé jusqu'à l'os, c'est parfait aussi",,0,1,1
-121,"Malaisien assortiment beignet, poulet saitay et curry de poulet",,Cuisine,Oui,Dimanche,5,"Un saytay bien relevé, c'était parfait",,0,1,1
-122,Churros,,Cuisine,Oui,Dimanche,3,"Un peu trop sucré, mais sinon bon",,0,1,1
-123,Mardi,,Jour,Oui,Mardi,4,Un bon début,,7,1,8
-124,Mercredi,,Jour,Oui,Mercredi,4,"Heureusement M était là, Lana Del Rey était la déception du Paleo pour moi",,9,1,10
-125,Jeudi,,Jour,Oui,Jeudi,5,"Cure, what else",,4,1,5
-126,Vendredi,,Jour,Oui,Vendredi,4,Sympa à condition d'aimer le hip-hop,,5,1,6
-127,Samedi,,Jour,Oui,Samedi,4.5,Pluvieux et ShakaPonk annulé,,7,1,8
-128,Dimanche,,Jour,Oui,Dimanche,5,"Une fin en apothéose, il y aurait mérité d'avoir plus de monde et être une soirée complète pour Birkin et Bruel",,10,0,10
+Source,Target,Type,Id,Label,timeset,Weight
+123,124,Directed,0,,,4
+124,125,Directed,1,,,4
+125,126,Directed,2,,,4
+126,127,Directed,3,,,4
+127,128,Directed,4,,,4
+0,123,Directed,5,,,2
+1,123,Directed,6,,,2
+2,123,Directed,7,,,2
+7,123,Directed,8,,,2
+104,123,Directed,9,,,2
+107,123,Directed,10,,,2
+114,123,Directed,11,,,2
+27,124,Directed,12,,,2
+28,124,Directed,13,,,2
+38,124,Directed,14,,,2
+105,124,Directed,15,,,2
+106,124,Directed,16,,,2
+110,124,Directed,17,,,2
+115,124,Directed,18,,,2
+116,124,Directed,19,,,2
+42,125,Directed,20,,,2
+43,125,Directed,21,,,2
+117,125,Directed,22,,,2
+58,126,Directed,23,,,2
+59,126,Directed,24,,,2
+61,126,Directed,25,,,2
+118,126,Directed,26,,,2
+77,127,Directed,27,,,2
+79,127,Directed,28,,,2
+108,127,Directed,29,,,2
+109,127,Directed,30,,,2
+119,127,Directed,31,,,2
+120,127,Directed,32,,,2
+89,128,Directed,33,,,2
+98,128,Directed,34,,,2
+99,128,Directed,35,,,2
+103,128,Directed,36,,,2
+111,128,Directed,37,,,2
+112,128,Directed,38,,,2
+113,128,Directed,39,,,2
+121,128,Directed,40,,,2
+122,128,Directed,41,,,2
+192,125,Directed,42,,,2
+193,125,Directed,43,,,2
+194,125,Directed,44,,,2
